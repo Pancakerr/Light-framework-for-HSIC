@@ -1,0 +1,20 @@
+OA: 0.9098209620197464
+AA: 0.8874343898446985
+Kappa: 0.8800653084501947
+training time: 25.245638132095337
+inferring time: 3.990445375442505
+                      precision    recall  f1-score   support
+
+             Asphalt     0.9492    0.8845    0.9157      5636
+             Meadows     0.9416    0.9635    0.9524     15852
+              Gravel     0.7986    0.7046    0.7487      1784
+               Trees     0.9090    0.8472    0.8770      2605
+Painted metal sheets     0.9845    0.9965    0.9904      1144
+           Bare Soil     0.8928    0.8613    0.8768      4275
+             Bitumen     0.7737    0.8442    0.8074      1130
+Self-Blocking Bricks     0.7810    0.8888    0.8314      3130
+             Shadows     0.9913    0.9963    0.9938       805
+
+            accuracy                         0.9098     36361
+           macro avg     0.8913    0.8874    0.8882     36361
+        weighted avg     0.9111    0.9098    0.9096     36361
