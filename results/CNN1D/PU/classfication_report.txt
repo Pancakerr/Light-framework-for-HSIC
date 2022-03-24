@@ -1,8 +1,8 @@
 OA: 0.9098209620197464
 AA: 0.8874343898446985
 Kappa: 0.8800653084501947
-training time: 25.245638132095337
-inferring time: 3.990445375442505
+training time: 25.600484609603882
+inferring time: 3.7580230236053467
                       precision    recall  f1-score   support
 
              Asphalt     0.9492    0.8845    0.9157      5636

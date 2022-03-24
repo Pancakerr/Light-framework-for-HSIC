@@ -1,8 +1,8 @@
 OA: 0.6219442212785493
 AA: 0.5608676219524128
 Kappa: 0.5562728525157601
-training time: 10.320620775222778
-inferring time: 0.5365657806396484
+training time: 9.884572267532349
+inferring time: 0.5236001014709473
                               precision    recall  f1-score   support
 
                      Alfalfa     0.8519    0.5897    0.6970        39
